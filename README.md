@@ -1,11 +1,8 @@
 # ScribdRo
------------
 ScribdRo este un script pentru accesarea documentelor pe Scribd fara un cont premium
 
 
 # Getting started
---------------------
-
 Pentru inceput, trebuie sa instalati unul dintre aceste add-on-uri pentru browser:
 
 * <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> pentru Firefox
